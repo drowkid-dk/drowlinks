@@ -6,7 +6,7 @@
 
 // UPDATE THE FOLLOWING TO YOUR PROJECT NAME WITHIN GITHUB
 // eg https://dazecoop.github.io/PROJECT_NAME/ <- This bit
-const projectName = 'PROJECT_NAME';
+const projectName = 'drowlinks';
 
 const execa = require('execa');
 const fs = require('fs');
