@@ -7,6 +7,14 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
+  {
+  "scripts": {
+    "deploy": "node scripts/gh-pages-deploy.js"
+  },
+  "devDependencies": {
+    "execa": "latest"
+  }
+}
   "devDependencies": {
     "@nuxtjs/color-mode": "^3.2.0",
     "@nuxtjs/tailwindcss": "^6.3.0",
